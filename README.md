@@ -1,1 +1,1 @@
-This is datastructures
+This is data structures
