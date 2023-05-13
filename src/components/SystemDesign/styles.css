@@ -1,0 +1,22 @@
+.dropdown-menu {
+  display: inline-block;
+  position: relative;
+  border: 1px solid #000;
+}
+
+.menu-list {
+  border: 1px solid #000;
+  width: 200px;
+  position: absolute;
+  background-color: #fff;
+}
+
+.menu-list--end {
+  right: 0;
+}
+
+.menu-list-item {
+  border-bottom: 1px solid #000;
+  cursor: pointer;
+  padding: 10px;
+}
